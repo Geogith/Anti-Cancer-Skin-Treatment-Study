@@ -1,4 +1,4 @@
-# Comparison of anti-skin Cancer treatments
+# Comparison of Anti-Cancer Skin Treatments
 
 The purpose of my study was to compare anti-cancer skin treatment Capomulin versus other skin cancer treatments. The study was performed using 249 mice. The 45 days study observed and measured scc tumor growths in mice to determine the efficacy of Capomulin compared to other skin cancer treatments. The study provided a summary of observations and insights using tables and figures to present the study results. 
 
