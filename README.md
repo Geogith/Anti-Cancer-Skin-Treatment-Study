@@ -1,5 +1,5 @@
 # CANCER TREATMENTS
-# Purpose 
+  # Purpose 
   
 Anti-cancer skin treatment Capomulin was compared to other skin cancer treatments. The analysis was performed using 249 mice. For 45 days scc tumor growths in mice were observed and measured to determine the efficacy of Capomulin compared to other skin cancer treatments. The results of the analysis tells a compelling story by presenting the data visually. To do this Matplotlib and NumPy were used. Matplotlib is a comprehensive plotting library for creating static, animated, and interactive visualizations when using Python progamming language. NumPy is its numerical mathematics extension, which allows the embedding of plots in Matplotlib to tell a compelling story.
 
