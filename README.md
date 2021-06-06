@@ -1,8 +1,8 @@
 # Cancer Treatment Analysis
-  # Purpose 
+# Purpose 
 Anti-cancer skin treatment Capomulin was compared to other skin cancer treatments. The analysis was performed using 249 mice. For 45 days scc tumor growths in mice were observed and measured to determine the efficacy of Capomulin compared to other skin cancer treatments. 
 
-  # Results
+# Results
 
 The completed study analysis provides a summary of observations and insights using tables and figures to present the study results. 
                    
