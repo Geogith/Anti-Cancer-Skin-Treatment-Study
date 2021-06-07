@@ -11,6 +11,7 @@ The completed analysis provides a summary of observations and hidden insights us
     particular sex.
     
    ![image](https://user-images.githubusercontent.com/67766966/120944558-c5f19680-c6fa-11eb-9bea-85308ecc1b05.png)
+   ![image](https://user-images.githubusercontent.com/67766966/120944623-1668f400-c6fb-11eb-8de4-83399fbcd68e.png)
 
 2.) Mouse C326 using Infubinol regimen had one outlier compared to the other three promising drug treatments.
 
