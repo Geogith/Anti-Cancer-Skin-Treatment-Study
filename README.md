@@ -20,7 +20,7 @@ The completed analysis provides a summary of observations and hidden insights us
 
 3.) Capomulin line plot for Mouse S185 shows the Tumor Volume decreases with time.
 
-![image](https://user-images.githubusercontent.com/67766966/120944939-a9565e00-c6fc-11eb-9a37-3486372d26f1.png)
+   ![image](https://user-images.githubusercontent.com/67766966/120944939-a9565e00-c6fc-11eb-9a37-3486372d26f1.png)
 
 4.) Capomulin scatter plot shows a reduction of mouse weight as tumor volume decreases.
 
@@ -28,3 +28,6 @@ The completed analysis provides a summary of observations and hidden insights us
 
 5.) Linear regression line shows a positive relationship (independent and dependentht variables go up) between tumor volume and weight using Capomulin drug regimen.
     Thereby confirming (along with the line and scatter plots) the Capomulin is the most promising anti-cancer skin treatment compared to the other treatments. 
+    
+   ![image](https://user-images.githubusercontent.com/67766966/120945260-030b5800-c6fe-11eb-8a94-de307a726b9e.png)
+
