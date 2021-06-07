@@ -10,7 +10,7 @@ The completed analysis provides a summary of observations and hidden insights us
 1.) Bar plots and Pie charts show total number of mice for each treatment(10) were evenly distributed amongst the sexes. Therefore, the analysis results are not bias to any
     particular sex.
     
-    ![image](https://user-images.githubusercontent.com/67766966/120944558-c5f19680-c6fa-11eb-9bea-85308ecc1b05.png)
+   ![image](https://user-images.githubusercontent.com/67766966/120944558-c5f19680-c6fa-11eb-9bea-85308ecc1b05.png)
 
 2.) Mouse C326 using Infubinol regimen had one outlier compared to the other three promising drug treatments.
 
