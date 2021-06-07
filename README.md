@@ -16,7 +16,7 @@ The completed analysis provides a summary of observations and hidden insights us
 2.) Mouse C326 using Infubinol regimen had one outlier compared to the other three promising drug treatments.
 
    ![image](https://user-images.githubusercontent.com/67766966/120944700-8a0b0100-c6fb-11eb-811b-bea6ef56d63d.png)
-
+   ![image](https://user-images.githubusercontent.com/67766966/120944756-cb9bac00-c6fb-11eb-9ca9-99f4f331286e.png)
 
 3.) Capomulin line plot for Mouse S185 shows the Tumor Volume decreases with time.
 
