@@ -24,5 +24,7 @@ The completed analysis provides a summary of observations and hidden insights us
 
 4.) Capomulin scatter plot shows a reduction of mouse weight as tumor volume decreases.
 
-5.) Fnally, linear regression line shows a positive relationship (independent and dependentht variables go up) between tumor volume and weight using Capomulin drug regimen.
+![image](https://user-images.githubusercontent.com/67766966/120945017-07834100-c6fd-11eb-93e5-668594a43b6b.png)
+
+5.) Linear regression line shows a positive relationship (independent and dependentht variables go up) between tumor volume and weight using Capomulin drug regimen.
     Thereby confirming (along with the line and scatter plots) the Capomulin is the most promising anti-cancer skin treatment compared to the other treatments. 
