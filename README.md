@@ -31,3 +31,10 @@ The completed analysis provides a summary of observations and hidden insights us
     
    ![image](https://user-images.githubusercontent.com/67766966/120945260-030b5800-c6fe-11eb-8a94-de307a726b9e.png)
 
+
+  ______________________________________________________________________________________________________________________________________
+  
+  # Contact:
+  
+    Email: 
+    rocklady4@gmail.com
